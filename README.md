@@ -17,3 +17,7 @@ A small React + Material‑UI demo that showcases:
 git clone <repo-url>
 cd user-management-app
 npm install
+```
+
+## Disclaimer
+- **Search feature is not developed yet**
